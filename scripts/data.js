@@ -73,7 +73,7 @@ let shopItemData =
     {
         id: "item11",
         name: "Mesahab Chicken",
-        price: 100,
+        price: 80,
         img: "images/item11.png",
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
     },
