@@ -265,3 +265,14 @@ nav
     padding: 10px 0;
 }
 
+@media screen and (max-width: 500px)
+{
+    .shopping-cart
+    {
+        grid-template-columns: repeat(1, 350px);
+    }
+    .title-price-x
+    {
+        width: 200px;
+    }
+}
